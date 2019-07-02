@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Rocket.wav-94110c6a66290ad431808c06f8b44d43.sample"
+
+[deps]
+
+source_file="res://audio/rocket/Rocket.wav"
+dest_files=[ "res://.import/Rocket.wav-94110c6a66290ad431808c06f8b44d43.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0
